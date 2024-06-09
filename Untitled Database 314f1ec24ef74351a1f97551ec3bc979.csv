@@ -1,0 +1,4 @@
+﻿Name,Data Type,Description
+HTMLWrapped/td>,LayoutType/td>,Indicates that a specific content area has an HTML-wrapped layout type.
+RawText/td>,LayoutType/td>,Specifies a raw text layout type for a content area.
+SMS/td>,LayoutType/td>,Indicates if subscriber information can be used for SMS sends.

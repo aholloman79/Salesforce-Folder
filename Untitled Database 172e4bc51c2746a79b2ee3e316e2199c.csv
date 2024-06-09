@@ -1,0 +1,8 @@
+﻿Platform,Library/Module
+C++,Axis2/C
+Java,"Axis2, XFire"
+.NET,WSE 3.0
+Perl,WSRF::Lite
+PHP,"soap-wsse.php, Axis2, Instantsvc"
+Python,pyGridWare
+Ruby,wss4r

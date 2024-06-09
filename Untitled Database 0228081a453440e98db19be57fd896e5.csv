@@ -1,0 +1,3 @@
+﻿Name,Data Type,Description
+Name,xsd,Name of the object or property.
+Value,xsd,Defines value to be used in filter or other object.

@@ -1,0 +1,3 @@
+﻿Field,Description
+creditsRemaining,Remaining credits
+notEnoughCredits,true if the job failed because of not enough credits; false otherwise

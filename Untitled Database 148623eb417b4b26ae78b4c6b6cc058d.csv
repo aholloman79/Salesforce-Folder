@@ -1,0 +1,2 @@
+﻿Name,Type,Required,Description
+legacy,boolean,No,Set to 1 to return a legacy token

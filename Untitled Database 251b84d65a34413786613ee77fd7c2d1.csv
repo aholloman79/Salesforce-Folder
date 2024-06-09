@@ -1,0 +1,4 @@
+﻿Trusted IP Range Exists?,User is in the Trusted IP Range?,Return Value
+Yes,Yes,Yes
+Yes,No,No
+No,N/A,Yes

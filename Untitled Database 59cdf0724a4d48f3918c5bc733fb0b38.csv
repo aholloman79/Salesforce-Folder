@@ -1,0 +1,4 @@
+﻿Name,Data Type,Description
+High,Priority,Specifies high priority for API processes.
+Low,Priority,Specifies low priority for API processes.
+Medium,Priority,Specifies medium priority for API processes.

@@ -1,0 +1,7 @@
+﻿Element Type,What Is It For?
+Actions,"For calling on other tools to perform various actions: getting or saving data, calculating, sending an email, and so on"
+Display,For displaying text and images on the screen to enhance the usability of the UI
+Functions,"For performing calculations within the OmniScript, showing conditional messages, and providing geolocation"
+Group,For grouping elements together on the UI
+Inputs,For system or user input or selection
+OmniScripts,Reusable OmniScripts to insert and use

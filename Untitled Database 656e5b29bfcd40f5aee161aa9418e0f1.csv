@@ -1,0 +1,4 @@
+﻿Notification Event Category,Notification Event Type,Data Items Available for Filtering
+TransactionalSendEvents,EmailSent,definitionKey
+TransactionalSendEvents,EmailNotSent,"definitionKey, statusCode"
+TransactionalSendEvents,EmailBounced,"definitionKey, bounceCode, smtpReason"

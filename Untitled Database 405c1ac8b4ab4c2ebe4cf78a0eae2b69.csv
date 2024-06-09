@@ -1,0 +1,2 @@
+﻿Name,Arguments,Returns,Description
+iterator,,Iterator class,Returns a reference to the iterator for this interface.

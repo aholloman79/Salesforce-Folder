@@ -1,0 +1,5 @@
+﻿TAG,DESCRIPTION,EDIT OPTIONS
+trans-unit,"Translation unit. Contains unique identifiers for the label, including the label’s id, maximum width, and out-of-date indicator.",Do not edit.
+source,Label or text in the org’s default language.,Do not edit.
+target,The current translation that is visible to end users selecting the target language as their personal language.,Enter the translated value. Add a target tag if needed.
+note,"Description of the metadata label, if defined, in the source language.",Do not edit. Translatable field descriptions each have a separate trans-unit tag.

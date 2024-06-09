@@ -1,0 +1,5 @@
+﻿Name,Data Type,Description
+Address,xsd,Address used to communicate with a subscriber.
+AddressType,xsd,The type of address.
+Carrier,xsd,Name of the SMS carrier.
+Statuses,AddressStatus[],Array of status values for an address.

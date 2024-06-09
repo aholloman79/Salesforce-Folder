@@ -1,0 +1,7 @@
+﻿Attribute,Type,Description
+to,string,Tenant Business Id event was produced from
+subscriberKey,string,Tenant Enterprise Id event was produced from
+messageKey,string,Object containing event-specific details
+bounceCode,string,"The type of bounce - ""HARD"" or ""SOFT"""
+bounceMessage,string,The string from the recipient email send the provider
+smtpReason,string,The error value of the SMTP reason

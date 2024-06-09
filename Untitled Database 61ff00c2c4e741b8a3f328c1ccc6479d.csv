@@ -1,0 +1,4 @@
+﻿Name,Header Type,Data Type
+SLA,Input,Text
+Retention Cost,Output,Currency
+Retention Rate,Output,Percent

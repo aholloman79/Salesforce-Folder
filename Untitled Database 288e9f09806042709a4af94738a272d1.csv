@@ -1,0 +1,4 @@
+﻿Element Name,Value
+DRUpdatePriContact,"StepContacts:RadioPriContact==""Update"""
+DRChangePriContact,"StepContacts:RadioPriContact==""Change"""
+DRCreatePriContact,"StepContacts:RadioPriContact==""Create"""

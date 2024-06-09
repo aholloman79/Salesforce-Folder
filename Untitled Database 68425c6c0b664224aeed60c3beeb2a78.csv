@@ -1,0 +1,6 @@
+﻿Field,Apex Data Type,Description
+Id,ID,Unique identifier for the Chatter message
+Body,String,Body of the Chatter message as posted by the sender
+SenderId,ID,User ID of the sender
+SentDate,DateTime,Date and time that the message was sent
+SendingNetworkId,ID,Network (site) in which the message was sent.This field is visible only if digital experiences is enabled and Private Messages is enabled in at least one site.

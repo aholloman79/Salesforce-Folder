@@ -1,0 +1,4 @@
+﻿Title,TRANSLATION LABEL OR TEXT,ID (IN .XLF FILES) OR KEY (IN .STF FILES)
+,Name of the product with record ID 01txx0000006yvEAAQ,Product2.01txx0000006yvEAAQ.Name
+,Description of the product with record ID 01txx0000006yvEAAQ,Product2.01txx0000006yvEAAQ.Description
+,Text stored in a custom “Discount Notes” field for the product record ID 01txx0000006yvEAAQ,Product2.01txx0000006yvEAAQ.Discount_Notes__c

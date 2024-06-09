@@ -1,0 +1,9 @@
+﻿Error,Message
+20001,Salesforce Send Unknown Email
+20002,Salesforce Send Member Not Set Up
+20003,Salesforce Send No Targets
+20004,Salesforce Send Invalid Target
+20005,Salesforce Send Invalid Exclusion
+20006,Salesforce Send Invalid Email ID
+20007,Salesforce Send Save Error
+20008,Salesforce Send No Email Specified

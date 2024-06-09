@@ -1,0 +1,4 @@
+﻿USER PERMISSIONS NEEDED
+"To add, edit, and manage prompts and walkthroughs as an admin"
+"To add, edit, and manage prompts and walkthroughs as a designated userNOTE An admin can manage prompts without adding more user permissions. Assign these permissions to non-admin users who want to manage prompts. If you don’t have access to an item, such as an object or app, some actions aren’t available to you.Only users with the View All Data or Modify All Data permissions can see another user’s errors, views, and completions."
+"To view more than three active custom walkthroughs as a user outside of the In-App Guidance BuilderNOTE If any user in the organization has a Sales Enablement (myTrailhead) subscription, users without the subscription can’t see custom walkthroughs."

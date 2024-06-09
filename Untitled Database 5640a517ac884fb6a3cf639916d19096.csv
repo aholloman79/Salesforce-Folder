@@ -1,0 +1,8 @@
+﻿COLUMN,DESCRIPTION,EDIT OPTIONS
+KEY,Unique identifier for the label.,Do not edit.
+LABEL,Label or text in the org’s default language.,Replace label text with new or updated translated values.
+TRANSLATION,"The current translation that is visible to end users selecting the target language as their personal language.
+Untranslated labels don’t have a value in this column.",Delete this column and its contents when updating an out-of-date translation.
+OUT OF DATE,"Indicates whether the source text has changed since the previous translation.
+An asterisk (*) indicates that the label is out of date. A change was made to the primary label and the translation hasn't been updated.
+Untranslated labels don’t have a value in this column.",Delete this column and its contents when updating an out-of-date translation.

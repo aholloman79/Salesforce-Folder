@@ -1,0 +1,2 @@
+﻿Name,Data Type,Description
+APIObject,APIObject,Common base type that other types within the API are inherited from.

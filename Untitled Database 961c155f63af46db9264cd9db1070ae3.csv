@@ -1,0 +1,4 @@
+﻿For This Data Input Source,Use This Integration Procedure Action Element
+Salesforce Org,DataRaptor Extract Action or DataRaptor Turbo Action
+API,HTTP Action
+Anything that Apex can access,Remote Action

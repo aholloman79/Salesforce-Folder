@@ -1,0 +1,2 @@
+﻿Name,Type,Required,Description
+batch,array,Yes,"Contains key value pairs where the key represents a profile ID and the value is an array of strings representing the intended state of the profile's privacy settings after the record is processed. To remove any existing privacy settings for a profile, pass an empty array, such as []."

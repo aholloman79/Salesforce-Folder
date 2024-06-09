@@ -1,0 +1,5 @@
+﻿Parameter,Value,Description
+grant_type,client_credentials,"As defined in the OAuth 2.0 specification, this field must contain a value of client_credentials"
+client_id,The client ID obtained from https://www.easypdfcloud.com/developer,Indicates the client that is making the request. The value passed in this parameter must exactly match the value specified in https://www.easypdfcloud.com/developer.
+client_secret,The client secret obtained from https://www.easypdfcloud.com/developer,Indicates the password of the client that is making the request. The value passed in this parameter must exactly match the value specified in https://www.easypdfcloud.com/developer.
+scope,Space delimited set of https://www.easypdfcloud.com/developer/pdf-rest-api-reference#authorize_scopes the app requests,Indicates the easyPDF Cloud API access your app is requesting. The values passed in this parameter inform the consent page shown to the user.

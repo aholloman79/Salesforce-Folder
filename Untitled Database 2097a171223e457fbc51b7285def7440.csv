@@ -1,0 +1,3 @@
+﻿Name,Type,Description
+customer_mid,string,ID for the account.
+batch_id,string,ID generated when creating a batch of privacy setting changes.

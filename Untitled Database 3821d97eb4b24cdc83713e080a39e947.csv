@@ -1,0 +1,5 @@
+﻿Message Type,Description,True,False,Example Message
+Comment,grey banner,✔,✔,Please confirm the weather conditions in %CURRENTLOCATION%
+Success,green banner,✔,✔,You have verified the weather conditions in %CURRENTLOCATION%.
+Warning,yellow banner,✔,✔,There is freezing rain at %CURRENTLOCATION%.
+Requirement,red banner,,✔,You cannot schedule a service call if there are hazardous conditions at %CURRENTLOCATION%.

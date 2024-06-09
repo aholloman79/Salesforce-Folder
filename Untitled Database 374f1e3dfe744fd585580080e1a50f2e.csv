@@ -1,0 +1,15 @@
+﻿Property Name,Description
+objectNameAccessLevel,"The level of access that the specified user or group has been granted for a share sObject. The name of the property is AccessLevel appended to the object name. For example, the property name for LeadShare object is LeadShareAccessLevel. Valid values are:
+• Edit
+• Read
+• All
+Note
+The All access level is an internal value and can’t be granted.This field must be set to an access level that is higher than the organization’s default access level for the parent object. For more information, see https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_bulk_sharing_understanding.htm."
+ParentID,The ID of the object. This field cannot be updated.
+RowCause,"The reason why the user or group is being granted access. The reason determines the type of sharing, which controls who can alter the sharing record. This field cannot be updated."
+UserOrGroupId,"The user or group IDs to which you are granting access. A group can be:
+• A public group or a sharing group associated with a role.
+• A territory group.
+This field cannot be updated.
+Note
+You can't grant access to unauthenticated guest users using Apex."

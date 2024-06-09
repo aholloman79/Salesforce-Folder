@@ -1,0 +1,4 @@
+﻿Class,Description
+https://developer.salesforce.com/docs/atlas.en-us.238.0.apexcode.meta/apexcode/apex_methods_system_restcontext.htm,Contains the RestRequest and RestResponse objects.
+https://developer.salesforce.com/docs/atlas.en-us.238.0.apexcode.meta/apexcode/apex_methods_system_restcontext.htm,Use the System.RestRequest class to access and pass request data in a RESTful Apex method.
+https://developer.salesforce.com/docs/atlas.en-us.238.0.apexcode.meta/apexcode/apex_methods_system_restcontext.htm,Represents an object used to pass data from an Apex RESTful Web service method to an HTTP response.

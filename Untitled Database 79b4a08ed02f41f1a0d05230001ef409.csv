@@ -1,0 +1,3 @@
+﻿Name,Arguments,Returns,Description
+hasNext,,Boolean,"Returns true if there’s another item in the collection being traversed, false otherwise."
+next,,Any type,Returns the next item in the collection.

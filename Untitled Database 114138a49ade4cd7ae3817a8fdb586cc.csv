@@ -1,0 +1,8 @@
+﻿Operation,Description
+extract,Uses the https://developer.salesforce.com/docs/atlas.en-us.198.0.soql_sosl.meta/soql_sosl/sforce_api_calls_soql.htm to export a set of records from Salesforce. The exported data is written to a data source. Soft-deleted records are not included.
+extract all,"Uses SOQL to export a set of records from Salesforce, including existing and soft-deleted records. The exported data is written to a data source."
+insert,Loads data from a data source into Salesforce as new records.
+update,"Loads data from a data source into Salesforce, and updates existing records with matching ID fields."
+upsert,Loads data from a data source into Salesforce. Existing records with a matching custom external ID field are updated. Records without matches are inserted as new records.
+delete,"Loads data from a data source into Salesforce, and deletes existing records with matching ID fields. Deleted records are moved to the Recycle Bin."
+hard delete,"Loads data from a data source into Salesforce, and deletes existing records with matching ID fields without first storing them in the Recycle Bin."

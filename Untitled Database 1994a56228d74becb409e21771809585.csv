@@ -1,0 +1,18 @@
+﻿Merge Field,Description
+{!$Credential.Username}{!$Credential.Password},"Username and password of the running user. Available only if the named credential uses password authentication.
+
+// non-standard authentication
+req.setHeader('X-Username', '{!$Credential.UserName}');
+req.setHeader('X-Password', '{!$Credential.Password}');"
+{!$Credential.OAuthToken},"OAuth token of the running user. Available only if the named credential uses OAuth authentication.
+
+req.setHeader('Authorization', '{!$Credential.OAuthToken}');"
+{!$Credential.AuthorizationMethod},"Valid values depend on the authentication protocol of the named credential.
+• Basic—password authentication
+• Bearer—OAuth 2.0
+• null—no authentication"
+{!$Credential.AuthorizationHeaderValue},"Valid values depend on the authentication protocol of the named credential.
+• Base-64 encoded username and password—password authentication
+• OAuth token—OAuth 2.0
+• null—no authentication"
+{!$Credential.OAuthConsumerKey},Consumer key. Available only if the named credential uses OAuth authentication.

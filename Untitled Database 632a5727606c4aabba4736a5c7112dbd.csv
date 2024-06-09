@@ -1,0 +1,4 @@
+﻿Name,Data Type,Description
+InActive,SubscriberAddressStatus,Indicates a subscriber address has an inactive status.
+OptedIn,SubscriberAddressStatus,Indicates a subscriber status has opted in to receive messages.
+OptedOut,SubscriberAddressStatus,Indicates a subscriber status has opted out of receiving messages.

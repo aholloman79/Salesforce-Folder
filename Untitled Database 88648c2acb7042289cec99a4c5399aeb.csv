@@ -1,0 +1,7 @@
+﻿Override in Setup,Salesforce Classic,Lightning Experience,Salesforce App
+Tab,object tab,object home,search
+List,object list,n/a,object home
+View,record view,record home,record home
+Edit,record edit,record edit,record edit
+New,record create,record create,record create
+Delete,record delete,record delete,record delete

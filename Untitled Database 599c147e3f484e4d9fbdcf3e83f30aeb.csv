@@ -1,0 +1,4 @@
+﻿Error,Description
+204 AsyncAPI_Error,"The conversation can’t be deleted at this time. Try again later. If the error continues to occur, contact Salesforce Customer Support."
+220 AsyncAPI_Item_Not_Found,"The conversation can’t be found. Try again later. If the conversation still can’t be found, it doesn’t exist, even in deleted status."
+222 AsyncAPI_Invalid_Status_To_Delete_Item,The conversation can’t be deleted because it is already processed.

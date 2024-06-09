@@ -1,0 +1,5 @@
+﻿Sharing Mode,When to Use
+with sharing,Use this mode as the default unless your use case requires otherwise.
+without sharing,"Use this mode with caution. Ensure that you don’t inadvertently expose sensitive data that would normally be hidden by the sharing model. This sharing mechanism is best used to grant targeted elevation of sharing privileges to the current user.
+For example, use without sharing to allow community users to read records to which they wouldn’t otherwise have access."
+inherited sharing,Use this mode for service classes that have to be flexible and support use cases with different sharing modes while also defaulting to the more secure with sharing mode.

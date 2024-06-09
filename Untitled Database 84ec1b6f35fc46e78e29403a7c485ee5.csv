@@ -1,0 +1,4 @@
+﻿Example,Description
+List<Account> accts = new Account[]{};,Defines an Account list with no elements.
+"List<Account> accts = new Account[]{new Account(), null, new Account()};","Defines an Account list with memory allocated for three Accounts: a new Account object in the first position, null in the second, and another new Account object in the third."
+List<Contact> contacts = new List<Contact>(otherList);,Defines the Contact list with a new list.

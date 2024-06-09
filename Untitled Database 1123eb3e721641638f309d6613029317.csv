@@ -1,0 +1,7 @@
+﻿Property,Description
+Send JSON Path,Send a specific node in the JSON to a data tool rather than the entire OmniScript’s JSON.
+Send JSON Node,Relabel the JSON node that is sent to a data tool.
+Response JSON Path,Trim the JSON data that is sent from a data tool to a specific node rather than return the entire JSON to the OmniScript.
+Response JSON Node,Relabel the JSON node that is returned from a data tool.
+Pre-Transform DataRaptor Interface,Call a DataRaptor Transform for more complex data mapping when sending data to a data tool.
+Post-Transform DataRaptor Interface,Call a DataRaptor Transform for more complex data mapping when receiving data back from a data tool.

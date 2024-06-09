@@ -1,0 +1,22 @@
+﻿Allowed use-case,Example,More information
+Method or variable or parameter chains,aObject?.aMethod();,Can be used as a top-level statement.
+"Using parentheses, for example in a cast.",((T)a1?.b1)?.c1(),"The operator skips the method chain up to the first closing parenthesis. By adding the operator after the parenthesis, the code safeguards the whole expression. If the operator is used elsewhere, and not after the parenthesis, the whole cast expression isn’t be safeguarded. For example, the behavior of
+
+//Incorrect use of safe navigation operator
+((T)a1?.b1).c1()is equivalent to:
+
+T ref = null;
+if (a1 != null) {
+ref = (T)a1.b1;
+}
+result = ref.c1();"
+SObject chaining,String s = contact.Account?.BillingCity;,An SObject expression evaluates to null when the relationship is null. The behavior is equivalent to String s = contact.Account.BillingCity.
+SOQL Queries,String s = [SELECT LastName FROM Contact]?.LastName;,"If the SOQL query returns no objects, then the expression evaluates to null. The behavior is equivalent to:
+
+List<Contact> contacts = [SELECT LastName FROM Contact]; 
+String s; 
+if (contacts.size() == 0) { 
+   s = null; // New behavior when using Safe Navigation. Earlier, this would throw an exception. } 
+else if (contacts.size() == 1) { 
+   s = contacts.get(0).LastName; } 
+else { // contacts.size() > 1 throw new QueryException(...); }"

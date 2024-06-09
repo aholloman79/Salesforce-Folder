@@ -1,0 +1,13 @@
+﻿Description,Limit
+"The maximum number of asynchronous Apex method executions (batch Apex, future methods, Queueable Apex, and scheduled Apex) per a 24-hour period1","250,000 or the number of user licenses in your org multiplied by 200, whichever is greater"
+Number of synchronous concurrent transactions for long-running transactions that last longer than 5 seconds for each org.2,10
+Maximum number of Apex classes scheduled concurrently,"100. In Developer Edition orgs, the limit is 5."
+Maximum number of batch Apex jobs in the Apex flex queue that are in Holding status,100
+Maximum number of batch Apex jobs queued or active concurrently3,5
+Maximum number of batch Apex job start method concurrent executions4,1
+Maximum number of batch jobs that can be submitted in a running test,5
+Maximum number of test classes that can be queued per 24-hour period (production orgs other than Developer Edition)5,The greater of 500 or 10 multiplied by the number of test classes in the org
+Maximum number of test classes that can be queued per 24-hour period (sandbox and Developer Edition orgs)5,The greater of 500 or 20 multiplied by the number of test classes in the org
+Maximum number of query cursors open concurrently per user6,50
+Maximum number of query cursors open concurrently per user for the Batch Apex start method,15
+Maximum number of query cursors open concurrently per user for the Batch Apex execute and finish methods,5

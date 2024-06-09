@@ -1,0 +1,16 @@
+﻿Entity,Normal,Aggressive,Extreme
+Concurrent Imports to a Data Extension,1,2,3 or more
+Concurrent Imports to Lists,1,2,3 or more
+Data Extensions in an Account,0-1000,1000-10000,>10000
+Enterprise 2.0 Business Units,0-1000,1000-2000,>2000
+Import and Filter Definitions,0-1000,1000-2000,>2000
+Lists and Groups in an Account,0-1000,1000-10000,>10000
+Objects in a Folder,0-1000,1000-2000,>2000
+Profile Attributes,0-50,50-100,>100
+Profile Attributes in an Enterprise 2.0 Account,0-50,50-100,>100
+Profile Attributes in an On-Your-Behalf or Lock-and-Publish Account,0-50,50-100,>100
+Profile Attributes Included in an Account or Business Unit Filter Definition,1-2,3-5,6 or more
+Rows in a Data Extension,0-1 million,1 million to 100 million,>100 million
+Sender Profiles,0-50,50-100,>100
+Subscribers,0-2 million,2 million to 10 million,>10 million
+Users,0-1000,1000-2000,>2000
