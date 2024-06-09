@@ -1,0 +1,27 @@
+﻿Schema Type,Apex Type
+xsd:anyURI,String
+xsd:boolean,Boolean
+xsd:date,Date
+xsd:dateTime,Datetime
+xsd:double,Double
+xsd:float,Double
+xsd:int,Integer
+xsd:integer,Integer
+xsd:language,String
+xsd:long,Long
+xsd:Name,String
+xsd:NCName,String
+xsd:nonNegativeInteger,Integer
+xsd:NMTOKEN,String
+xsd:NMTOKENS,String
+xsd:normalizedString,String
+xsd:NOTATION,String
+xsd:positiveInteger,Integer
+xsd:QName,String
+xsd:short,Integer
+xsd:string,String
+xsd:time,Datetime
+xsd:token,String
+xsd:unsignedInt,Integer
+xsd:unsignedLong,Long
+xsd:unsignedShort,Integer

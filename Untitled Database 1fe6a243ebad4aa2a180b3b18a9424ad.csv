@@ -1,0 +1,6 @@
+﻿Section,Description
+Alignment,"Update the padding, margin, and text alignment of an element."
+Appearance,"Configure the color, background, and border of an element."
+Custom,"Create and apply custom classes, and add inline styles to an element."
+Custom CSS,Save style settings on a FlexCard element as a custom style to use on multiple elements of a FlexCard.
+Dimensions,"Set the height and width, and configure the responsiveness of your element."

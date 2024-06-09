@@ -1,0 +1,6 @@
+﻿Function Type,Includes,Example
+Numerical,"+, -, *, /, ^, ROUND",Multiply the number of texts sent by the rate per text to get a total amount for a cell phone bill.
+Aggregate,"SUM, AVG, MAX, and MIN",A customer signs up for a flat-rate payment plan. The payment is calculated based on the average amount spent over the past 12 months.
+Logical,"OR, AND, and IF","If the customer is less than 18 years old, return a value of “Minor”. Otherwise, return a value of “Adult”. To make this functionality work, the function would be: IF(AGE<18, “Minor”, “Adult”)."
+String,CONCAT,"Display city and state together, separated by a comma."
+Date and Time,"AGE, AGEON, DATEDIFF",TODAY() returns today’s date and NOW() returns the current date and time.

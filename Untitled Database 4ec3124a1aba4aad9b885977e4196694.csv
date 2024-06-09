@@ -1,0 +1,17 @@
+﻿Name,Data Type,Description
+ConversationID,xsd,Unique ID of initial async API call.
+CreateResults,CreateResult[],Reserved for future use.
+ErrorCode,xsd,Identifies the error of an API request.
+NewID,xsd,System identifier for new object.
+NewObjectID,xsd,System identifier for new object.
+Object,APIObject,Specifies definition of object.
+OrdinalID,xsd,Defines position of object within an array of information.
+OverallStatusCode,xsd,Represents overall status of conversation via async API.
+ParentPropertyName,xsd,Deprecated
+PartnerKey,xsd,Unique identifier provided by partner for an object. This property is accessible only via API.
+RequestID,xsd,Unique ID of initial async API call.
+RequestType,RequestType,Defines request as synchronous or asynchronous API.
+ResultDetailXML,xsd,Contains details of operation result in XML format.
+ResultType,xsd,Defines result as coming from synchronous or asynchronous API.
+StatusCode,xsd,Status of async API request.StatusMessage
+StatusMessage,xsd,Describes the status of an API call.

@@ -1,0 +1,4 @@
+﻿Value,Description
+do_not_track,Prevents data received via collect from being saved by Personalization Builder.
+do_not_profile,Prevents using the profile in generating recommendations.
+do_not_process,Prevents processing of the profile's data.

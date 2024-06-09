@@ -1,0 +1,20 @@
+﻿Element Name,Type,Description
+category,LogCategory,"Specify the type of information returned in the debug log. Valid values are:
+• Db
+• Workflow
+• Validation
+• Callout
+• Apex_code
+• Apex_profiling
+• Visualforce
+• System
+• All"
+level,LogCategoryLevel,"Specifies the level of detail returned in the debug log.Valid log levels are (listed from lowest to highest):
+• NONE
+• ERROR
+• WARN
+• INFO
+• DEBUG
+• FINE
+• FINER
+• FINEST"

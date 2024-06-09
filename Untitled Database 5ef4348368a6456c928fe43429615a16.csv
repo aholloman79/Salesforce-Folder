@@ -1,0 +1,9 @@
+﻿0.5 SerializedObject,1.0 Serialized Object
+execute.uri,configurationArguments.url
+execute.verb,configurationArguments.method
+execute.body,arguments.execute-body
+execute.format,not supported (default is JSON)
+execute.useJwt,configurationArguments.useJwt
+execute.timeout,configurationArguments.timeout
+execute.inArguments,arguments.executeInArguments
+execute.headers,arguments.header

@@ -1,0 +1,4 @@
+﻿Class,Description
+https://developer.salesforce.com/docs/atlas.en-us.238.0.apexcode.meta/apexcode/apex_class_System_Json.htm,Contains methods for serializing Apex objects into JSON format and deserializing JSON content that was serialized using the serialize method in this class.
+https://developer.salesforce.com/docs/atlas.en-us.238.0.apexcode.meta/apexcode/apex_class_System_JsonGenerator.htm,Contains methods used to serialize objects into JSON content using the standard JSON encoding.
+https://developer.salesforce.com/docs/atlas.en-us.238.0.apexcode.meta/apexcode/apex_class_System_JsonParser.htm,Represents a parser for JSON-encoded content.

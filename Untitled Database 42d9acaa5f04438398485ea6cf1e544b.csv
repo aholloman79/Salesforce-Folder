@@ -1,0 +1,8 @@
+﻿Name,Type,Description
+Name,String,The name of the shipping invoice/order
+Subtotal,Currency,The subtotal
+GrandTotal,Currency,"The total amount, including tax and shipping"
+Shipping,Currency,The amount charged for shipping (assumes $0.75 per pound)
+ShippingDiscount,Currency,Only applied once when subtotal amount reaches $100
+Tax,Currency,The amount of tax (assumes 9.25%)
+TotalWeight,Number,The total weight of all items

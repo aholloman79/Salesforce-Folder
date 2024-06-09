@@ -1,0 +1,13 @@
+﻿FIELDS,DESCRIPTION
+Active Date,"The date the in-app guidance was activated. If part of a package, the active date is the date when the package was installed."
+API Type,"The type of in-app guidance. Valid values are Docked Prompt, Floating Prompt, Targeted Prompt, and Walkthrough."
+Last Display Date,The date the in-app guidance was last showed to the user.
+Last Result,"The most recent user interaction. Valid values are Error, Not Seen, No Action, Dismiss, Finish (walkthroughs only), and Custom Action. No Action represents the user clicking the close button."
+Last Result Date,The date the in-app guidance was last interacted with.
+Name,The name of the in-app guidance.
+Step Count,The total number of steps in the walkthrough.
+Step Number,The number of the last step the user viewed or interacted with in a walkthrough.
+Times Action Taken,The number of times that the user acted upon on the in-app guidance.
+Times Dismissed,The number of times that the user dismissed the in-app guidance.
+Times Displayed,The number of times that the in-app guidance was shown to the user.
+User: Full Name,The full name of the user who viewed the in-app guidance.

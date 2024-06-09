@@ -1,0 +1,12 @@
+﻿TRANSLATION LABEL OR TEXT,ID (IN .XLF FILES) OR KEY (IN .STF FILES)
+Country “Spain” in address,AddressCountry.ES
+“Billing” button or link on the Account object,ButtonOrLink.Account.Billing
+Label of the “Active” field on the Account object,CustomField.Account.Active.FieldLabel
+Description of the “Active” field on the Account object,CustomField.Account.Active.Description.FieldLabel
+Help text of the “Active” field on the Account object,CustomField.Account.Active.Description.HelpText
+“Low” picklist entry in the Customer Priority picklist on the Account object,PicklistValue.Account.CustomerPriority.Low
+Description of the “East Accounts” Custom Report Type,CustomReportType.East_Accounts.Description
+“Accounts” Custom Report Type Layout Section on the “Accounts” Custom Report Type,CrtLayoutSection.Custom_Accounts_Reports_1
+Description of the “Goal Layout” Custom Report Type Layout on the “Goals” Custom Report Type,LayoutSection.Goal.Goal Layout.Description_1
+“Survey Customers” flow name,Flow.​Flow.​Survey_​customers.​FieldLabel
+“Customer Name” screen input field on version 2 of the “Survey Customer” flow,Flow.​Flow.​Survey_​customers.​2.​Survey_​Customer.​Field.​Customer_​Name.​FieldLabel

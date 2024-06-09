@@ -1,0 +1,5 @@
+﻿Objective,DataRaptor Type
+Get data from a single Salesforce object,DataRaptor Turbo Extract
+Get data from one or more Salesforce objects,DataRaptor Extract
+Save data to one or more Salesforce objects,DataRaptor Load
+Manipulate any data that comes from inside or outside Salesforce,DataRaptor Transform

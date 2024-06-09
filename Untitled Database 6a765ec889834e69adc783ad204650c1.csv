@@ -1,0 +1,9 @@
+﻿Action Type Name,Description
+Card,"Perform card-level actions, such as reload, update data source, and remove."
+Event,"Custom: Fire a Custom Event to notify the parent FlexCard of an event occurring.
+PubSub: Fire a PubSub Event to notify another component on a page or application of an event occurring."
+Flyout,"Display additional information from a child card, OmniScript, or custom Lightning web component (LWC) in a modal or popover."
+Navigate,"Select a target URL or a PageReference type that enables navigation within Lightning Experience, within Communities, or to an external web address."
+OmniScript,Launch an OmniScript from the FlexCard.
+Update OmniScript,Update an OmniScript from a FlexCard embedded as a custom Lightning web component in an OmniScript.
+OmniStudio Action,"Launch OmniScripts, components, web pages, or external applications from a reusable OmniStudio Action. An OmniStudio Action can launch the same OmniScript from multiple FlexCards."

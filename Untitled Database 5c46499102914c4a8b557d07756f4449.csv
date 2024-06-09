@@ -1,0 +1,15 @@
+﻿Name,Data Type,Description
+Action,xsd,"Defines the action to take for the specified object. Valid values include:
+• CREATE
+• DELETE
+• UPDATE"
+CallsInConversation,xsd,Number of calls within an async API conversation.
+Client,ClientID,Specifies the account ownership and context of an object.
+Container,ContainerID,Reserved for future use.
+ConversationID,xsd,Unique ID of initial async API call.
+Priority,xsd,Deprecated.
+RequestType,RequestType,Defines request as synchronous or asynchronous API.
+SaveOptions,SaveOption[],Allows upsert on selected objects.
+ScheduledTime,xsd,Keeps requests in asynchronous queue until time specified in the call.
+SendResponseTo,AsyncResponse[],Defines how responses are returned and under what conditions.
+SequenceCode,xsd,Specifies the processing sequence of a multi-step conversation.

@@ -1,0 +1,6 @@
+﻿For This Data Input Source,Use This OmniScript Action Element
+Salesforce Org—One field only,Lookup
+Salesforce Org—Many fields,DataRaptor Extract Action
+API,HTTP Action
+Anything that Apex can access,Remote Action
+User,Any Inputs Element

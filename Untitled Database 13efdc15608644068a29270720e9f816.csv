@@ -1,0 +1,7 @@
+﻿For This Data Output Source,Use This Integration Procedure Action Element
+FlexCards or OmniScripts,Response Action
+Salesforce Org,DataRaptor Post Action (To save data to Salesforce Records)
+Salesforce Org,Delete Action (To delete data from Salesforce Records )
+API,HTTP Action
+Send Email,Email Action
+DocuSign Template,DocuSign Envelope Action

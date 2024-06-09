@@ -1,0 +1,17 @@
+﻿Object,Checkboxes
+Account,"Evaluate this account against territory rules on save checkbox — Displays the Evaluate this account against territory rules on save checkbox on account edit pages.
+Territory assignment rules run automatically when the Select by default checkbox is selected.
+If both Show on edit page and Select by default are selected, users can uncheck the Evaluate this account against territory rules on save checkbox on the account edit page, and territory assignment rules will not be run."
+Case,"◦ Case assignment checkbox — Displays the Assign using active assignment rules checkbox on case edit pages.
+Case assignment rules run automatically when the Select by default checkbox is selected.
+If both Show on edit page and Select by default are selected, the assignment checkbox is selected by default, but users can deselect it to override the assignment rule.
+    ◦ Email notification checkbox — Displays the Send notification email to contact checkbox on case edit pages."
+Case Close,"◦ Solution information section — Displays the solution information section on the case close edit pages.
+    ◦ Notify Contact — Displays the Notify Contact checkbox on case close edit pages."
+Lead,"Lead assignment checkbox — Displays the Assign using active assignment rule checkbox appears on the lead edit page.
+Lead assignment rules run automatically when the Select by default checkbox is selected.
+If both Show on edit page and Select by default are selected, the assignment checkbox is selected by default, but users can deselect it to override the assignment rule."
+Person Account,"Evaluate this account against territory rules on save checkbox — Displays the Evaluate this account against territory rules on save checkbox on person account edit pages.
+Territory assignment rules run automatically when the Select by default checkbox is selected.
+If both Show on edit page and Select by default are selected, users can uncheck the Evaluate this account against territory rules on save checkbox on the account edit page, and territory assignment rules will not be run."
+Task,Email notification checkbox — Displays the Send Notification Email checkbox appears on the task edit page.NOTE A user’s personal preference for defaulting the state of the checkbox takes precedence over the organization-wide setting.

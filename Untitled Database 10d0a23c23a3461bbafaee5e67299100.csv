@@ -1,0 +1,11 @@
+﻿Parameter,Required,Description
+amount,Required,"Amount to be reversed from the authorization. Must be greater than zero.
+Salesforce doesn't provide validations comparing PaymentAuthorizationAdjustment.Amount to PaymentAuthorization.Amount.
+If the payment gateway allows the reversal amount to be greater than the authorization amount, the authorization's resulting balance can be negative. If your gateway supports authorization balances below zero and you want to avoid gateway calls, configure your adapter to query the authorization amount, balance, and total reversal amount, and don’t call the endpoint if the balance is less than zero."
+accountId,Optional,Account ID to which this authorization reversal is linked.
+effectiveDate,Optional,The date that the reversal applies to the authorization.
+email,Optional,Fraud parameter
+ipAddress,Optional,Fraud parameter
+macAddress,Optional,Fraud parameter
+phone,Optional,Fraud parameter
+comments,Optional,User-provided comments about the authorization reversal. Must be less than 1000 characters.

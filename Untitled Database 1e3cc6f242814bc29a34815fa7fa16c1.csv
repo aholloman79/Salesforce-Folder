@@ -1,0 +1,3 @@
+﻿COLUMN,DESCRIPTION,EDIT OPTIONS
+KEY,Unique identifier for the label.,Do not edit.
+LABEL,Label or text in the org’s default language.,Replace untranslated values with translated values.

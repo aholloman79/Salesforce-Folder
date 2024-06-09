@@ -1,0 +1,4 @@
+﻿Salesforce API Versions,Version Support Status,Version Retirement Info
+Versions 31.0 through 55.0,Supported.,
+Versions 21.0 through 30.0,"As of Summer ‘22, these versions are deprecated and no longer supported by Salesforce.Starting from Summer ‘23, these versions will be retired and unavailable.",https://help.salesforce.com/s/articleView?id=000354473&type=1&language=en_US
+Versions 7.0 through 20.0,"As of Summer ‘22, these versions are retired and unavailable.",https://help.salesforce.com/s/articleView?id=000351312&type=1&language=en_US

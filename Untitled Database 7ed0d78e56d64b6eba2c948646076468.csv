@@ -1,0 +1,4 @@
+﻿Start of the Region,End of the Region,Code Example
+Specify explicitly,Leave unchanged,"MyMatcher.region(start, MyMatcher.regionEnd());"
+Leave unchanged,Specify explicitly,"MyMatcher.region(MyMatcher.regionStart(), end);"
+Reset to the default,Specify explicitly,"MyMatcher.region(0, end);"

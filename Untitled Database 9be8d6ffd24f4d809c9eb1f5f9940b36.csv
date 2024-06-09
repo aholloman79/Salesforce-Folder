@@ -1,0 +1,3 @@
+﻿Field,Description
+jobID,The ID of the newly created job
+workflowID,The workflow ID for this job

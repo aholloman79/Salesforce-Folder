@@ -1,0 +1,5 @@
+﻿Data Type,Valid Values
+Boolean,True or False
+Date,ShortDate (date with no time)
+List,Not supported
+Numeric,Bigint

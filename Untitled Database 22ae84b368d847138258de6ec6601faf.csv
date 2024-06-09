@@ -1,0 +1,9 @@
+﻿Description,Resolution,HTTP Error,Custom
+Generic,Ensure you provide the correct resource.,400,30000
+Invalid Operation,Your request uses an invalid HTTP operation for the resource. Modify the request to use a valid operation.,400,30001
+Invalid State Transition,This operation requests an invalid state transition for the resource. Ensure you request a valid state transition.,409,30002
+Object Not Found,Your request cannot find any available data. Ensure you properly created your request.,404,30003
+Object Already Exists,Another object with the same credentials already exists.,409,30004
+Too many requests,Retry the API call after number of seconds specified in “Retry-After” header field.,429,50100
+Too many requests,Your API requests are temporarily blocked due to too many concurrent requests. Contact Salesforce Marketing Cloud technical support to resolve the failure.,429,50200
+Service Unavailable,Retry the API call after number of seconds specified in “Retry-After” header field.,503,50300

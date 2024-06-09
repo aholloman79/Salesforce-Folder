@@ -1,0 +1,7 @@
+﻿Description,Cumulative Cross-Namespace Limit
+Total number of SOQL queries issued,"1,100"
+Total number of records retrieved by Database.getQueryLocator,"110,000"
+Total number of SOSL queries issued,220
+Total number of DML statements issued,"1,650"
+Total number of callouts (HTTP requests or web services calls) in a transaction,"1,100"
+Total number of sendEmail methods allowed,110

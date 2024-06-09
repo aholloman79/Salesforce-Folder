@@ -1,0 +1,2 @@
+﻿Name,Arguments,Returns,Description
+getJobID,,ID,Returns the ID of the https://developer.salesforce.com/docs/atlas.en-us.238.0.object_reference.meta/object_reference/sforce_api_objects_asyncapexjob.htm object associated with this batch job as a string. Use this method to track the progress of records in the batch job. You can also use this ID with the https://developer.salesforce.com/docs/atlas.en-us.238.0.apexref.meta/apexref/apex_methods_system_system.htm method.

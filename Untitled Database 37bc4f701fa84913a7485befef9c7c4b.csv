@@ -1,0 +1,5 @@
+﻿Name,Data Type,Description
+Email,Email,Default email address for object.
+FTP,AsyncResponseType,Reserved for future use.
+HTTPPost,AsyncResponseType,Send the response back using HTTP Post.
+None,AsyncResponseType,Default response type for AsyncResponseType.

@@ -1,0 +1,7 @@
+﻿Parameter,Default,Description
+A workflow setting,No,"Specify workflow setting.
+POST For POST method, provide workflow setting in the ""setting"" parameter.
+PUT For PUT method, provide workflow setting in a request body.
+Info You can https://www.easypdfcloud.com/developer/pdf-rest-api-reference#workflows_settingand use it as your base setting."
+test,No,"Specify whether to run the job execution as test mode.
+Info If true is specified, then the job is executed as a test mode and your API credits will not be used."

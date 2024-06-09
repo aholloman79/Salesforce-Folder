@@ -1,0 +1,26 @@
+﻿Name,Data Type,Description
+CategoryID,xsd,Specifies the identifier of the folder.
+CharacterSet,xsd,Indicates encoding used in an email message.
+Client,ClientID,Specifies the account ownership and context of an object.
+ClonedFromID,xsd,ID of email message from which the specified email message was created.
+ContentAreas,ContentArea[],Contains information on content areas included in an email message.
+ContentCheckStatus,xsd,Indicates whether content validation has completed for this email message.
+CorrelationID,xsd,Identifies correlation of objects across several requests.
+CreatedDate,xsd,Read-only date and time of the object's creation.
+CustomerKey,xsd,User-supplied unique identifier for an object within an object type.
+EmailType,xsd,Defines preferred email type.
+Folder,xsd,Specifies folder information (Retrieve only) - Deprecated.
+HTMLBody,xsd,Contains HTML body of an email message.
+HasDynamicSubjectLine,xsd,Indicates if email message contains a dynamic subject line.
+ID,xsd,Read-only legacy identifier for an object. Not supported on all objects.
+IsActive,xsd,Specifies if the object is active.
+IsHTMLPaste,xsd,Indicates if email message was created via pasted HTML.
+ModifiedDate,Nullable`1,Last time object information was modified.
+Name,xsd,Name of the object or property.
+ObjectID,xsd,"System-controlled, read-only text string identifier for object."
+Owner,Owner,Describes account ownership of subscriber in an on-your-behalf account.
+PartnerKey,xsd,Unique identifier provided by partner for an object. This property is accessible only via API.
+PartnerProperties,APIProperty[],A collection of metadata supplied by the client and stored by the system. These properties are accessible only via API.
+Status,SubscriberStatus,Defines status of object.
+Subject,xsd,Contains subject area information for a message.
+TextBody,xsd,Contains raw text body of a message.

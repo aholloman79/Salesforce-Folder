@@ -1,0 +1,4 @@
+﻿Property,Description
+Element Error Map,Tells the system which element displays the error message.
+Value field,Defines the instructional text you display.
+Conditional View,Defines when the element fires.

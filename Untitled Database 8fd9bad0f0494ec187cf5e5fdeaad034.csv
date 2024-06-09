@@ -1,0 +1,5 @@
+﻿Name,Data Type,Description
+Objects,APIObject[],A collection of objects.
+Options,UpdateOptions,Optionally specifies processing options.
+OverallStatus,String,Specifies the overall status of the request.
+RequestID,String,Marketing Cloud's unique identifier for every request.

@@ -1,0 +1,5 @@
+﻿FIELD,DESCRIPTION
+Label,"The human-friendly name of the page used to identify the page in Setup tools.TIP It’s a great idea to have a naming convention for your custom help pages. For example, start all custom help pages with “Help_” and then the object name."
+Name,The API name for the page. You can use the auto-filled value.
+Description,An optional description of the page.
+"Available for Lightning Experience, Experience Builder sites, and the mobile app",Select this option if your custom object is available in the Salesforce mobile app.

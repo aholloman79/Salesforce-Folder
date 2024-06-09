@@ -1,0 +1,3 @@
+﻿ApexTestClass.Name,TestMethodName,NumLinesCovered,NumLinesUncovered
+TaskUtilTest,testTaskPriority,7,3
+TaskUtilTest,testTaskHighPriority,6,4

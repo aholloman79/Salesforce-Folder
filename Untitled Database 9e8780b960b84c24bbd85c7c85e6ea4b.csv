@@ -1,0 +1,7 @@
+﻿Name,Data Type,Description
+IncludeObjects,xsd,Indicates whether the APIObject is included in the response.
+IncludeResults,xsd,Controls whether the results are returned in the response.
+OnlyIncludeBase,xsd,Reduce object to base APIObject information.
+RespondWhen,,Reserved for future use.
+ResponseAddress,xsd,Email address or public URL to receive POST response to asynchronous request.
+ResponseType,AsyncResponseType,Specifies type of response associated with an asynchronous operation.

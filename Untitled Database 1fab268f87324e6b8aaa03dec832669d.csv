@@ -1,0 +1,37 @@
+﻿FIELD,DESCRIPTION
+Label,This name is used to refer to the object in a user interface page.
+Plural Label,"The plural name of the object. If you create a tab for this object, this name is used for the tab."
+Gender,"If it is appropriate for your organization’s default language, specify the gender of the label. This field appears if the organization-wide default language expects gender. Your personal language preference setting does not affect whether the field appears. For example, if the organization’s default language is English and your personal language is French, you aren’t prompted for gender when creating a custom object."
+Starts with a vowel sound,"If it’s appropriate for your organization’s default language, indicate whether “an” or “a” precedes the label."
+Object Name,"A unique name used to refer to the object when using the API. In managed packages, this name prevents naming conflicts with package installations. Use only alphanumeric characters and underscores. The name must begin with a letter and have no spaces. It cannot end with an underscore nor have two consecutive underscores."
+Description,An optional description of the object. A meaningful description helps you remember the differences between objects when you are viewing them in a list.
+Context-Sensitive Help Setting,"Defines the URL that displays when a user clicks Help for this Page from the object record’s home (overview), edit, and detail pages, list views, and related lists. This setting doesn’t affect the Help link at the top of a page. That link always opens the Help window.
+• To display the standard Salesforce Help available for any custom object record, select Open the standard Salesforce Help & Training window.
+• To display custom object-level help for your custom object, select Open a window using a Visualforce page and then select the Visualforce page to use as the target of the context-sensitive help link from that custom object’s pages."
+Record Name,"The name used in page layouts, list views, related lists, and search results."
+Data Type,The type of field (text or auto-number) for the record name. Records that have unique IDs instead of names are auto-numbered and always a read-only field.
+Display Format,"For an auto-numbered record name, enter the display format. You can have up to two sets of curly braces."
+Starting Number,"For an auto-numbered record name, enter the number to use when creating your first record for this custom object."
+Allow Reports,"Makes the data in the custom object records available for reporting purposes.
+To create reports on custom objects, choose the Other Reports report type category, unless the custom object has a relationship with a standard object. When the custom object has a master-detail relationship with a standard object or is a lookup object on a standard object, select the standard object for the report type category instead.
+You can still create and run reports without selecting Allow Reports; however, the custom report type is not visible."
+Allow Activities,Allows users to associate tasks and scheduled calendar events related to the custom object records.
+Allow in Chatter Groups,"Allows users to add records of this custom object type to Chatter groups.
+When true, users with permissions can create records of this object type using the group publisher. The created record is associated with the group and appears in the group record list. When false, users with permissions can use the group publisher to create records of this object type, but the record is not associated with the group."
+Enable Divisions,"If your organization has divisions enabled, select this option to enable the custom object for divisions. Divisions group records for simplified search results, list views, reports, and other areas within Salesforce. Salesforce adds a Division field to the custom object. If the custom object is the master in a master-detail relationship, custom objects on the detail side also get the Division field and inherit their division from the master record."
+Available for Customer Portal,"Makes the custom object available to all portal users.
+This option is available only if your organization has a customer portal.
+If you enable Digital Experiences in your organization, this option no longer appears, and all custom objects are available in your Experience Cloud sites. If, before enabling , you had a Customer Portal and custom objects without this option selected, those objects become available in your Customer Portal."
+Track Field History,"Enables your organization to track changes to fields on the custom object records. For example, it tracks who changed the field value and when, what the value was before the edit, and what it was changed to. History data is available for reporting, so users can easily create audit trail reports when this feature is enabled."
+Allow Sharing,"When this setting is enabled, the custom object is an Enterprise Application object. When this setting isn’t enabled, the custom object is a Light Application object.
+When this setting is enabled, you must also enable Allow Bulk API Access and Allow Streaming API Access."
+Allow Bulk API Access,"When this setting is enabled, the custom object is an Enterprise Application object. When this setting isn’t enabled, the custom object is a Light Application object.
+When this setting is enabled, you must also enable Allow Sharing and Allow Streaming API Access."
+Allow Streaming API Access,"When this setting is enabled, the custom object is an Enterprise Application object. When this setting isn’t enabled, the custom object is a Light Application object.
+When this setting is enabled, you must also enable Allow Bulk API Access and Allow Sharing."
+Deployment Status,Indicates whether the custom object is visible to other users.
+Allow Search,"To allow your users to find a custom object’s records when they search, create a custom tab set to Default On or Default Off. Creating a custom tab enables the custom object's Allow Search setting.
+A custom object that's associated with a custom tab is searchable (by default), even if users don't add the tab for display."
+Add Notes & Attachments...,"Allows users to attach notes and attachments to custom object records. You can attach external documents to any object record in much the same way that you can add a PDF file or photo as an attachment to an email.
+This option is available only when you are creating an object."
+Launch the New Custom Tab Wizard,Starts the custom tab wizard after you save the custom object.

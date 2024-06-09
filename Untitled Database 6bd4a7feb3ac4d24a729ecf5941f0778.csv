@@ -1,0 +1,6 @@
+﻿Error Message,Failed Context,Reason for Failure
+More than one Finalizer cannot be attached to same Async Apex Job,Queueable Execution,System.attachFinalizer() is invoked more than once in the same Queueable instance.
+Class {0} must implement the Finalizer interface,Queueable Execution,The instantiated class parameter to System.attachFinalizer() doesn’t implement the System.Finalizer interface.
+System.attachFinalizer(Finalizer) is not allowed in this context,Non-Queueable Execution,System.attachFinalizer() is invoked in an Apex context that's not executing a Queueable instance.
+Invalid number of parameters,Queueable Execution,Invalid number of parameters to System.attachFinalizer()
+Argument cannot be null,Queueable Execution,System.attachFinalizer() is invoked with a null parameter.

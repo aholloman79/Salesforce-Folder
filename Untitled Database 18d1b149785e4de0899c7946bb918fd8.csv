@@ -1,0 +1,3 @@
+﻿User Permissions Needed
+To execute anonymous Apex:(Anonymous Apex execution through the API allows restricted access without the “Author Apex” permission.)
+If an anonymous Apex callout references a named credential as the endpoint:

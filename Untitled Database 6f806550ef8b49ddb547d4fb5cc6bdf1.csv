@@ -1,0 +1,6 @@
+﻿Name,Type,Description
+Name,String,The name of the item
+Price,Currency,The price of the item
+Quantity,Number,The number of items in the order
+Weight,Number,"The weight of the item, used to calculate shipping costs"
+Shipping_invoice,Master-Detail (shipping_invoice),The order this item is associated with

@@ -1,0 +1,8 @@
+﻿Description,Limit
+Default timeout of callouts (HTTP requests or Web services calls) in a transaction,10 seconds
+Maximum size of callout request or response (HTTP request or Web services call)1,6 MB for synchronous Apex or 12 MB for asynchronous Apex
+Maximum SOQL query run time before Salesforce cancels the transaction,120 seconds
+Maximum number of class and trigger code units in a deployment of Apex,7500
+Apex trigger batch size2,200
+For loop list batch size,200
+Maximum number of records returned for a Batch Apex query in Database.QueryLocator,50 million

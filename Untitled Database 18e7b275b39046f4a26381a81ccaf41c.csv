@@ -1,0 +1,3 @@
+﻿Name,Arguments,Return Type,Description
+describe,,https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_plugin_describe_result.htm#apex_plugin_describe_result,Returns a Process.PluginDescribeResult object that describes this method call.
+invoke,https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_plugin_request.htm#apex_plugin_request,https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_plugin_result.htm#apex_plugin_result,Primary method that the system invokes when the class that implements the interface is instantiated.

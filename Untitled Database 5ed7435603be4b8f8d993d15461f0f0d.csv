@@ -1,0 +1,32 @@
+﻿Parameter,Required,Details
+"cardPaymentMethod: {
+  ""cardHolderName"":"""",
+  ""expiryMonth"":"""",
+  ""expiryYear"":"""",
+  ""startMonth"":"""",
+  ""startYear"":"""",
+  ""cvv"":"""",
+  ""cardNumber"":"""",
+  ""cardCategory"":"""",
+  ""cardType"":"""",
+  ""nickName"":"""",
+  ""cardHolderFirstName"":"""",
+  ""cardHolderLastName"":"""",
+  ""email"":"""",
+  ""comments"":""""
+}",Required,Details of the credit card to be tokenized.
+accountId,Optional,Salesforce Account ID of the card owner.
+"""address"":{
+  ""street"":"""",
+  ""city"":"""",
+  ""state"":"""",
+  ""country"":"""",
+  ""postalCode"":"""",
+  ""companyName"":"""",
+}",Optional,Address information of the customer who owns the credit card payment method being tokenized.
+paymentGatewayId,Required,The external payment gateway related to the tokenization server.
+email,Optional,Fraud parameter.
+ipAddress,Optional,Fraud parameter.
+macAddress,Optional,Fraud parameter.
+phone,Optional,Fraud parameter.
+additionalData,Optional,Any additional data required by the gateway to tokenize a credit card payment method.

@@ -1,0 +1,11 @@
+﻿FIELD NAME,DESCRIPTION
+Label,This name is used to refer to the object in a user interface page.
+Plural Label,The plural name of the object.
+Starts with a vowel sound,"If it’s appropriate for your organization’s default language, indicate whether “an” or “a” precedes the label."
+Object Name,"A unique name used to refer to the object when using the API. In managed packages, this name prevents naming conflicts with package installations. Use only alphanumeric characters and underscores. The name must begin with a letter and have no spaces. It cannot end with an underscore nor have two consecutive underscores.
+In the API, the names of custom big objects have a suffix of two underscores immediately followed by a lowercase “b” (__b). For example, a big object named “HistoricalInventoryLevels” is seen as HistoricalInventoryLevels__b in that organization's WSDL."
+Description,An optional description of the object. A meaningful description helps you remember the differences between objects when you are viewing them in a list.
+Context-Sensitive Help Setting,"Defines the URL that displays when a user clicks Help for this Page from the object record’s home (overview), edit, and detail pages, list views, and related lists. This setting doesn’t affect the Help link at the top of a page. That link always opens the Help window.
+• To display the standard Salesforce Help available for any custom object record, select Open the standard Salesforce Help & Training window.
+• To display custom object-level help for your custom object, select Open a window using a Visualforce page and then select the Visualforce page to use as the target of the context-sensitive help link from that custom object’s pages."
+Deployment Status,"When you create a big object, the status is set to In Development. You can't deploy a big object until it includes an index that contains at least one custom field. Only required custom fields are allowed in an index. After you create an index, you see a second status of Deployed. Once you’re ready to grant users access, change the status to Deployed."

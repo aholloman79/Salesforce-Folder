@@ -1,0 +1,5 @@
+﻿Fact Map Key,Description
+0!T,The first item in the first-level grouping.
+1!T,The second item in the first-level grouping.
+0_0!T,The first item in the first-level grouping and the first item in the second-level grouping.
+0_1!T,The first item in the first-level grouping and the second item in the second-level grouping.

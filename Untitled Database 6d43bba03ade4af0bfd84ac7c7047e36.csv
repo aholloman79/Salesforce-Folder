@@ -1,0 +1,1256 @@
+﻿OBJECT,FIELDS
+Account,"Account Number
+Billing Address
+Description
+Duns Number
+Fax
+Id
+Name
+Name Local
+Phone
+Shipping Address
+Site
+Ticker Symbol
+Website"
+Account Forecast Adjustment,"Id
+Name"
+Account Forecast Period Metric,"Id
+Name"
+Account Forecast,Name
+Account Product Forecast,"Id
+Name"
+Account Product Period Forecast,"Id
+Name"
+Action Visibility,"AccountId
+ContactId
+HealthScoreId
+Id
+Name"
+Activation Target Platform,"ActivationPlatformId
+ActivationTargetId
+Id
+Name"
+Actv Tgt Platform Field Value,"ActivationTargetPlatformId
+ActvPlatformFieldValueId
+Id
+Name"
+Activity Timing,"Id
+Name"
+Action Cadence,"Id
+Name"
+Ad Creative Size Type,"Id
+Name"
+Ad Order Item,"Ad Server Order Identifier
+Ad Server Order Line Identifier
+Id
+Name"
+Ad Order Line Ad Target,"AdOrderItemId
+AdProductTargetCategoryId
+Id
+Name"
+Ad Product Target Category,"Id
+MediaType
+Name
+ProductId
+TargetCategoryId"
+Ad Quote,"Id
+Name"
+Ad Quote Line,"Id
+Name"
+Ad Quote Line Ad Target,"AdProductTargetCategoryId
+AdQuoteLineId
+Id
+Name"
+Ad Server,"Ad Server Application Name
+Ad Server Network Identifier
+Id
+Name
+Name Credential Reference"
+Ad Server Account,"Ad Server Advertiser Identifier
+Id
+Name"
+Ad Server User,Ad Server User Identifier
+Ad Space Creative Size Type,"Id
+Name"
+Ad Space Group Member,"Id
+Name"
+Ad Space Specification,"Ad Server Ad Space Identifier
+Id
+Name"
+Ad Target Category,"Code
+Id
+MediaType
+Name
+ParentAdTargetCategoryId
+ProductId"
+Ad Target Category Segment,"Code
+DataType
+DependentCategorySegmentId
+DisplayType
+Id
+MediaType
+Name
+ProductId
+TargetCategoryId"
+Advanced Account Forecast Set Use,"AdvAccountForecastSetId
+ForecastContextId
+Id
+Name"
+AI Sentiment Result,"Id
+Name"
+AI Visit Recommendation,"Id
+Name"
+AI Visit Recommend Request,"Id
+Name"
+Air Travel Emission Factor,"Id
+Name"
+Air Travel Energy Use,"Id
+Name"
+Allergy Intolerance,"Id
+Name
+Source System"
+Analytics (Dashboard and Lens),"Analytic dashboard and lens search results appear under Analytics.
+Dashboard
+Title
+Lens
+Description
+Developer Name
+Master Label
+Name"
+Annual Emissions Inventory,"Id
+Name"
+Annual Emissions Reduction Target,"Id
+Name"
+Applications,"Id
+Name"
+Appointment Reason,"Default Image
+Description
+Id
+Name"
+Article (Knowledge Article),"Article Number
+Summary
+Title
+URL Name
+Attached file’s content (text within the file)
+Attached file Title"
+Asset Warranty,"Asset Warranty Number
+Id"
+Async Operation Log,"Async Operation Number
+External Reference
+Id
+Status
+Type"
+Auth Application Asset,"Id
+Name"
+Auth Application Place,"Id
+Name"
+Auth Location Access Schedule,"Id
+Name"
+Authorization Form,"Id
+Name"
+Authorization Form Consent,"Id
+Name"
+Authorization Form Data Use,"Id
+Name"
+Authorization Form Text,"Id
+Name"
+Auth Form Request Record,"Id
+Name"
+Authorized Insurance Line,"Country
+Id
+Name"
+Author Note,"Id
+Name"
+Award,"Name
+Awarded By
+Id
+Identity"
+Background Operation,"Id
+Name"
+Banker,"Description
+Id
+Name"
+Benefit,"Id
+Name"
+Benefit Assignment,"ApplicationId
+ApprovalStatus
+BenefitFrequency
+BenefitId
+CarePlanId
+EnrolleeId
+Id
+Name
+Status
+UnitOfMeasureId"
+Benefit Parameter Value,"Id
+Name"
+Benefit Type,"Id
+Name"
+Billing Batch Scheduler,"BillingSchedulerName
+Id
+RunCriteriaId"
+Billing Schedule,Billing Schedule Number
+Billing Schedule Group,"Billing Schedule Group Number
+Id"
+Branch Unit,"Id
+Name"
+Branch Unit Business Member,"Id
+Name"
+Branch Unit Customer,"Id
+Name"
+Branch Unit Related Record,"Id
+Name"
+Budget,"Description
+Id
+Name
+Period Name"
+Budget Allocation,"Id
+Name"
+Building Energy Intensity,"Id
+Name"
+Building Energy Intensity Value,"Id
+Name"
+Building Size Category,"Id
+Name"
+Bundled Care Fee Agreement,"Id
+Name
+Procedure Bundle Description
+Procedure Bundle Item List"
+Business Brand,"Id
+Name"
+Business License,"Description
+Id
+Identifier
+Issuer
+Jurisdiction Country
+Jurisdiction Other
+Jurisdiction State
+License Number
+Name"
+Business Milestone,"Name
+Source System"
+Business Profile,"Business Operating Name
+Business Tax Identifier
+Id
+Name
+Source System
+Source System Identifier"
+Bus Reg Auth Type Dependency,"Id
+Name"
+Calculation Matrix,"Id
+Name"
+Calculation Matrix Row,"Id
+Input Data
+Name
+Output Data"
+Calculation Procedure,"Id
+Name"
+Calendar,"Calendar Name is searchable using lookup search only, not global search. In the New Event window, it’s available in the Assigned To and the Attendees lookup fields (if those fields are in your Events layout). It’s also searchable when you add a calendar to your Calendar view.
+Id
+Calendar Name"
+Campaign,"Description
+Id
+Name"
+Carbon Emissions Scope Allocations,"Id
+Name"
+Carbon Emissions Scope Allocation Values,"Id
+Name"
+Care Benefit Verify Request,"Id
+Name
+Status Reason"
+Care Fee Schedule Item,"FeeScheduleDefinitionId
+Id
+Name
+ProcedureCodeDescription
+ProcedureCodeId"
+Care Metric Target,"Id
+Name"
+Care Observation,"Id
+Name
+Source System"
+Care Observation Component,"Id
+Name"
+Care Performer,"Id
+Name"
+Care Program Enrollment Card,"CardNumber
+Id
+Name
+Source System Identifier"
+Care Provider Adverse Action,"Case Number
+Court Sentence
+Description
+Id
+Insurance Policy Number
+Insurance Provider Name
+Jurisdiction
+Name
+Regulatory Body
+Reporting Entity
+Source System
+Source System Identifier"
+Care Program Provider,"Name
+Source System Identifier"
+Care Pgm Prov Healthcare Provider,"Id
+Name
+Source System
+Source System Identifier"
+Care Registered Device,"Id
+Name
+Source System
+Source System Identifier"
+Care Request Reviewer,"Id
+Name
+Review Date"
+Case,"Case Number
+Description
+Id
+Subject
+Supplied Company
+Supplied Email
+Supplied Name
+Supplied Phone"
+Change Request,"Change Request Number
+Description
+Id
+Subject"
+Channel Program,"Description
+Id
+Name"
+Channel Program Level,"Description
+Id
+Name"
+Chatter (Feed),"@Name (where Name is a username)
+Comment Body
+Commenter Name
+File Name
+Group Name
+Links
+Post Body
+Post Origin (Person, Group, Record Name)"
+(Chatter Group) Group,"Description
+Name"
+Claim Recovery,"Id
+Name"
+Claim Team Member,"ClaimId
+Id
+Name
+Role
+UserId"
+Clinical Alert,"Code Description
+Id
+Name
+Source System"
+Clinical Detected Issue Detail,"ClinicalDetectedIssueId
+DetailCodeId
+DetailRecordId
+DetailType
+Id
+MitigationAuthorId
+Name"
+Clinical Encounter,"Id
+Name
+Source System"
+Clinical Encounter Diagnosis,"Id
+Name"
+Clinical Encounter Facility,"Id
+Name"
+Clinical Encounter Identifier,"Id
+Id Value
+Name"
+Clinical Encounter Provider,"Id
+Name"
+Clinical Encounter Reason,"Id
+Name"
+Clinical Encounter Svc Request,"Id
+Name"
+Clinical Service Request,"Id
+Name
+Source System"
+Clinical Service Request Detail,"Id
+Name"
+Code Set,"Code
+Code Description
+Id
+Name
+Source System
+System Version"
+Comm Subscription,"Id
+Name"
+Comm Subscription Channel Type,"Id
+Name"
+Comm Subscription Consent,"Name
+Consent Captured Source
+Id"
+Comm Subscription Timing,"Id
+Name"
+Commission Schedule,"Id
+Name"
+Commission Schedule Assignment,"Id
+Name"
+Complaint Case,"Id
+Name"
+Contact,"Assistant Name
+Assistant Phone
+Department
+Description
+Email
+Fax
+First Name Local
+Home Phone
+Id
+Informal Name Local
+Last Name Local
+Mailing Address
+Middle Name Local
+Mobile Phone
+Name
+Other Address
+Other Phone
+Phone
+Title"
+Contact Point Type Consent,"Id
+Name"
+Contract,"Billing Address
+Billing Name
+Contract Number
+Description
+Id
+Name
+Shipping Address
+Special Terms"
+Coupon,"Id
+Name"
+Coverage Benefit Item Limit,"Allowed Limit
+Applied Limit
+Id
+Name"
+Credit Memo Address Group,"CreditMemoAddressGroupNumber
+CreditMemoId
+Id"
+Credit Memo Inv Application,"Credit Memo Invoice Number
+Id"
+Crisis,"Id
+Name"
+Customer,"Id
+Name"
+Custom Objects and Fields,"Name
+All custom auto-number fields and custom fields that are set as an external ID (no need to enter leading zeros)
+All custom fields of type email and phone
+All custom fields of type text, text area, long text area, and rich text areaNOTE A custom object that's associated with a custom tab is searchable (by default), even if users don't add the tab for display. The same field types are also searchable for custom fields on standard objects. If an object has custom fields, you can find records of that object with the custom field values."
+Custom Object Comment,Comment Body
+Custom Object Participant,"Comments
+Id
+Name
+ParticipantId
+ParticipantRoleId
+ReferenceObjectId"
+Customer Property,"Lien Holder Name
+Registration Number
+Source System
+Source System Identifier
+Vin"
+Dashboard,"Id
+Title"
+Datasets,"Id
+Name"
+Data Action,"Id
+Name"
+Data Action Target,"Id
+Name"
+Data Connection Gcs,"Id
+Name"
+Data Connector Credential,"Id
+Name"
+Data Lake Object Instance,"Id
+Name"
+Data Use Legal Basis,"Id
+Name"
+Data Use Purpose,"Id
+Name"
+Detected Objects,Name
+Diagnostic Summary,"Id
+Name
+Source System
+Summary"
+Diagnostic Summary Detail,"Id
+Name"
+Distributor Authorization,"Id
+Distributor Authorization Name
+Termination Cause"
+Document Generation Process,"Id
+Name"
+Electricity Emissions Factor Set,"Id
+Name"
+Email Message,"Bcc Address
+Cc Address
+Division
+From Address
+Id
+Subject
+Text Body
+To Address"
+Emissions Activity,"Id
+Name"
+Emissions Forecast Factor,"Id
+Name"
+Emissions Reduction Commitment,"Id
+Name"
+Emissions Reduction Target,"Business Line
+Custom Target Setting Method
+Custom Target Type
+Description
+Id
+Name"
+Employee,"Email
+Employee Number
+First Name
+Global Party Id
+Id
+Last Name
+Preferred First Name"
+Engagement Channel Type,"Id
+Engagement Channel Type Name"
+Enhanced Letterhead,"Id
+Enhanced Letterhead Name"
+Entitlement,"Id
+Entitlement Name"
+Expense,"Amount
+Description
+Expense End Date
+Expense Number
+Expense Start Date
+Id
+Title
+Transaction Date"
+Expense Report,"Description
+Expense Report Number
+Id
+Title"
+Expense Report Entry,"Expense Report Entry Number
+Id"
+External objects,"Global search only: Text, text area, and long text area fieldsNOTE
+• Lookup search isn’t available for external lookup relationship fields. To edit an external lookup relationship field, manually enter the value of the External ID standard field for the parent record. This limitation doesn’t apply when the parent external object is associated with the cross-org adapter for Salesforce Connect.
+• Lookup search isn’t available for indirect lookup relationship fields. To edit an indirect lookup relationship field, manually enter the value of the target field of the parent record. The target field is the custom field with External ID and Unique attributes that was selected when the indirect lookup relationship was created. To determine related records, Salesforce matches target field values against the values of the indirect lookup relationship field on the child object.
+An external object accesses data that’s stored outside your Salesforce org. Your Salesforce admin controls which external objects are searchable. Which external object fields are searched depends on how the external system handles searches. If the search results aren’t as you expected, use case-sensitive search strings that contain only alphanumeric characters. If the results still aren’t as expected, contact your admin for recommendations on searching your specific external system."
+Event (Calendar),"Description
+Subject"
+Fee Schedule Definition,"Description
+Id
+Name"
+File,"Body
+Description
+Extension (examples: ppt or txt)
+Name
+Owner"
+Financial Deal Asset,"AssetId
+AssetType
+FinancialDealId
+Id
+Name
+UnitOfMeasureId"
+Financial Deal Bid,"FinancialDealId
+FinancialDealPartyId
+Id
+Name"
+Financial Deal Interaction,"Comment
+Id
+Name"
+Financial Deal Interaction Summary,"Comment
+Id
+Name"
+Financial Deal,"Id
+Name"
+Financial Deal Participant,"Comments
+Id
+Name"
+Financial Deal Party,"Id
+Name"
+Financial Deal Product,"Id
+Name"
+Folder,"Id
+Name"
+Freight Hauling Emissions Factor,"Id
+Name"
+Freight Hauling Energy Use,"Id
+Name"
+Fulfillment Order,"Delivery Method
+Fulfilled From Location
+Fulfilled To Address
+Fulfilled To Email Address
+Fulfilled To Name
+Fulfilled To Phone
+Fulfillment Order Number
+Id
+Invoice
+Order Summary
+Status"
+Generated Waste,"Id
+Name"
+Gnrc Vst Key Performance Ind,"Id
+Name"
+Goal Assignment,"Description
+GoalAssigneeId
+GoalDefinitionId
+Id
+Name
+ParentRecordId
+Status"
+Ground Travel Emissions Factor,"Id
+Name"
+Ground Travel Energy Use,"Cost Center
+Id
+Name
+Traveler Name"
+Gtwy Prov Payment Method Type,"Id
+Master Label"
+Gnrc Vst Key Performance Ind,"Id
+Name"
+Guest Buyer Profile,"Id
+Name"
+Healthcare Facility,"Id
+Name
+Source System"
+Health Condition,"Id
+Name
+Source System"
+Health Condition Detail,"Id
+Name"
+Health Score,"CurrentScore
+CurrentScoreDate
+Id
+Name
+PreviousScore
+PreviousScoreDate
+ScoreCategoryId
+SubjectId"
+Health Score Action Log,"ActionDescription
+ActionIconUrl
+ActionLabel
+ActionName
+ActionStatus
+Id
+Name
+PerformedById
+ScoreCategoryId
+SubjectId"
+Holiday,"Description
+Id
+Name"
+Hotel Stay Emission Factor,"Id
+Name"
+Hotel Stay Energy Use,"Id
+Name"
+Identity Resolution,"Id
+Name"
+Images,Name
+Incident,"Description
+Id
+Incident Number
+Subject"
+Individual,"NOTE These fields are only available for lookup search, not global search.
+Id
+Name
+Website"
+Inflation Rate,
+Info Auth Request Form,"Id
+Name"
+Info Authorization Request,"Id
+Name"
+Inspection Assessment Ind,"Id
+Name"
+Inspection Type,"Id
+Name"
+Insurance Policy,"Id
+Name
+Source System
+Source System Identifier
+Universal Policy Number"
+Interaction,"Description
+Id
+Name"
+Interaction Attendee,"Email Address
+Id
+Name"
+Interaction Participant,"Id
+Name"
+Interaction Sum Discussed Account,"Comment
+Id
+Name"
+Interaction Summary,"Id
+Meeting Notes
+Name
+Next Steps"
+Interaction Sum Discussed Account,
+Internal Organization Unit,"Id
+Organization Code
+Organization Name"
+International Organization Unit,"Name (Organization Code)
+Organization Name"
+Inspection Type,"Id
+Name"
+Invoice,"Document Number
+Id"
+Journal Sub Type,"Id
+Name"
+Knowledge Article Version,Title
+Lead,"Address
+Company
+Company Duns Number
+Company Local
+Description
+Email
+Fax
+First Name Local
+Id
+Informal Name Local
+Last Name Local
+Middle Name Local
+Mobile Phone
+Name
+Phone
+TitleNOTE In Lightning Experience, both the converted lead record and the new record based on the converted lead are searchable. However, you can’t view or edit the converted lead record from the search results page."
+Legal Entity,"Id
+Name"
+List Email,"Id
+Name"
+List View,"Id
+Name
+Sobject Type"
+Loan Applicant,"Applicant Ext Identifier
+Id
+Name"
+Loan Applicant Address,"Address Ext Identifier
+Id
+Name"
+Loan Applicant Declaration,"Declaration Ext Identifier
+Id
+Name"
+Loan Applicant Employment,"Employment Ext Identifier
+Id
+Name"
+Loan Applicant Income,"Id
+Income Ext Identifier
+Name"
+Loan Application Asset,"Asset Ext Identifier
+Id
+Name"
+Loan Application Financial,"Financial Ext Identifier
+Id
+Name"
+Loan Application Liability,"Id
+LiabilityExtIdentifier
+Name"
+Loan Application Property,"Id
+Name
+Property Ext Identifier"
+Loan Application Title Holder,"Id
+Name
+Title Holder Name
+Title Holder Ext Identifier"
+Location Group,"External Reference
+Id
+Name"
+Loyalty Benefit,"Id
+Name"
+Loyalty Benefit Type,"Id
+Name"
+Loyalty Member Currency,"Id
+Name"
+Loyalty Pgm Group Mbr Rlnsp,
+Loyalty Program,"Id
+Name"
+Loyalty Program Member Case,"Id
+Name"
+Loyalty Program Currency,"Id
+Name"
+Loyalty Pgm Engmt Attr Prom,"Id
+LoyaltyProgramEngmtAttrId
+Name
+PromotionId"
+Loyalty Pgm Engmt Attribute,"EngagementType
+Id
+LoyaltyProgramId
+Name"
+Loyalty Pgm Mbr Attribute Val,"Id
+LoyaltyPgmEngmtAttributeId
+LoyaltyProgramMemberId
+Name"
+Loyalty Pgm Group Mbr Rlnsp,"Id
+Name"
+Loyalty Program Mbr Promotion,"Id
+Name"
+Loyalty Tier,"Id
+Name"
+Loyalty Tier Benefit,"Id
+Name"
+Loyalty Tier Group,"Id
+Name"
+Marketing App Extension,"Id
+Master Label"
+Marketing Link,"Id
+Name"
+Med Recon Recommendation,"Id
+Name"
+Med Recon Statement Recommendation,"Id
+Name
+Source System
+Source System Id"
+Media Channel,"Id
+Name"
+Media Content Title,"Id
+Name"
+Medical Ingredient,"Id
+Name"
+Medication,"Id
+Name
+Source System"
+Medication Dispense,"CollectedById
+ContextId
+DeliveryLocationId
+DispenseTypeCodeId
+HealthcareFacilityId
+Id
+MedAdministrationSettingCategory
+MedicationCodeId
+MedicationId
+Name
+PatientId
+PrimaryDetectedIssueId
+PrimaryMedicationRequestId
+PrimaryProcedureId
+QuantityUnitId
+SourceSystem
+Status
+StatusReasonCodeId
+StatusReasonRelatedIssueId
+SubstitutedById
+SubstitutionReason
+SubstitutionType"
+Medication Reconciliation,"Id
+Name"
+Medication Request,"Id
+Name
+Source System"
+Medication Statement,"Id
+Name
+Source System"
+Medication Statement Details,"DetailCodeId
+DetailRecordId
+DetailType
+Id
+MedicationStatementId
+Name"
+Member Benefit,"Id
+Name"
+Messaging Session,"Id
+Name"
+Mkt Data Transform,"DataTransformDefinitionId
+Id
+Name"
+Model Metrics,"Id
+Name"
+My Entity Data Template,"Id
+Name"
+Multiparty Info Auth Request,"Id
+Name"
+Network Referenced Object,"Id
+Name"
+Note,"Body
+Id
+Title"
+Object Metrics,Name
+Object State Definition,"Id
+Name"
+Object State Transition,"Id
+Name"
+Object State Value,"Id
+Name"
+Ocr Document Scan Result,"Id
+Name"
+Omni Data Pack,"Id
+Name"
+Operating Hours,"Description
+Name"
+Opportunity,"Description
+Id
+NameNOTE To find the right opportunity, search for the opportunity name plus the account name. For example, enter the phrase 20 widgets Acme and search returns 20 Widgets for the related Acme account."
+Order,"Billing Address
+Description
+External Note
+Id
+Internal Comments
+Name
+Order Number
+Order Reference Number
+PO Number
+Processing Instruction
+Shipping Address"
+Order Payment Summary,"Full Name
+Id
+Method"
+Order Summary,"Account
+Billing Email Address
+Billing Phone Number
+Bill To Contact
+Id
+Ordered Date
+PO Date
+PO Number
+Sales Channel"
+Other Emissions Factor Set,
+Other Emissons Factor Set Item,
+Partner Fund Allocation,"Description
+Id
+Title"
+Partner Fund Claim,"Description
+Id
+Title"
+Partner Fund Request,"Name
+Description
+Desired Outcome"
+Partner Marketing Budget,"Description
+Id
+Title"
+Party,"Id
+Name
+Description"
+Party Consent,"Capture Source
+Id
+Name"
+Patient Health Reaction,"Details
+Id
+Name"
+Patient Medical Procedure,"Id
+Name
+Source System"
+Patient Medical Procedure Detail,"Id
+Name"
+Patient Medication Dosage,"Id
+Name
+Source System"
+Patient Immunization,"Id
+Manufacturer
+Name"
+Payment Gateway Provider,"Id
+Master Label"
+Payment Request,"Id
+Name"
+Payment Request Line,"Id
+Name"
+People,"About Me
+Address
+Email
+Name
+Nickname
+Phone
+Title
+Username"
+Person Account,"Account Name
+Account Name (Local)
+Account Number
+Account Site
+Assistant
+Assistant Phone
+Billing Address
+Description
+Email
+Fax
+Home Phone
+Mailing Address
+Mobile
+Other Address
+Other Phone
+Shipping Address
+Ticker Symbol
+Title
+WebsiteNOTE The Person Account object contains fields that originate from both the Business Account and Contact objects. All search terms are compared to business account and contact fields at the same time."
+Person Examination,"Id
+Name"
+Person Language,"Id
+Name"
+Preliminary Application Ref,"Id
+Name"
+Preventive Care Agreement,"AdditionalInformation
+BonusMeasureDescription
+BonusMeasureType
+ContractPaymentAgreementId
+Id
+Name"
+Price Book,"Description
+Price Book Name"
+Privacy Request,"Id
+Name
+Related Record
+Target Record"
+Problem,"Description
+Id
+Problem Number
+Subject"
+Process Exception,"Id
+Message
+Process Exception Number
+Status Category"
+Procurement Emissions Factor Set,"Id
+Name"
+Procurement Emissions Factor Set Item,"Id
+Name"
+Product,"Product Code
+Product Description
+Product Name
+Stock Keeping Unit"
+Product Warranty Term,"Id
+Product Warranty Term Number"
+Program Rebate Type Product,"Id
+Name"
+Promotion Market Segment,"Id
+Name"
+Promotion Segment,"Id
+Name"
+Provider Network Contract,"Id
+Name"
+Provider Network Tier,"Description
+Id
+Name"
+Provider Search Sync Log,"Id
+Message
+Name
+Provider Name"
+Public Complaint,"Id
+Name
+Subject"
+Queue,"Id
+Name
+Description"
+Quick Text,"Id
+Message
+Name"
+Quote,"Id
+Name
+Quote Number"
+Program Rebate Type Filter,"Id
+Name"
+Program Rebate Type Payout,"Id
+Name"
+Program Rebate Typ Payout Src,"Id
+Name"
+Rebate Member Aggregate Item,"Id
+Name"
+Rebate Member Product Aggregate,"Id
+Name"
+Record Alert,"Description
+Id
+Name
+ParentId
+RecordAlertCategoryId
+Severity
+SourceSystemIdentifier
+Subject
+WhatId"
+Refrigerant Emissions Factor,"Id
+Name"
+Reg Authorization Type Product,"Id
+Name"
+Regulatory Authority,"Id
+Name"
+Regulatory Code,"Id
+Name"
+Regulatory Code Assessment Ind,"Id
+Name"
+Regulatory Code Violation,"Id
+Name"
+Regulatory Trxn Fee,"Id
+Name"
+Regulatory Trxn Fee Item,"Id
+Name"
+Rental Car Emissions Factor,"Id
+Name"
+Rental Car Energy Use,"Id
+Name"
+Report,"Description
+Id
+Name"
+Reply Text,"Id
+Name
+Raw Text Message"
+Reported Consumption,"Id
+Name"
+Received Document,"Document Number
+Id
+Name
+Source"
+Residential Loan Application,"Application Ext Identifier
+Id
+Name"
+Retail Store Group Assignment,"Id
+Name"
+Retail Store KPI,"Id
+Name"
+Return Order,"Description
+Expiration Date
+Id
+Return Order Number"
+Sales Agreement,"Id
+Name"
+Sales Channel,"Id
+Sales Channel Name"
+Scope 3 Carbon Footprint,"Id
+Name"
+Scope 3 Emissions Source,"City
+Id
+Name
+Postal Code
+Scope 3 Emissions Source Type
+State"
+Scope 3 Procurement Item,"Id
+Name
+Spending Category 1
+Spending Category 2
+Spending Category 3"
+Scope 3 Procurement Summary,"Id
+Name"
+Securities Holding,"Id
+Name
+Source System
+Source System Identifier"
+Seller,"Id
+Name"
+Service Appointment,"Appointment Number
+Description
+Id
+Service Note
+Source System
+Source System Identifier
+Subject"
+Service Crew,"Id
+Name"
+Service Crew Member,"Id
+Name"
+Service Point,"Id
+Name
+Service Point External Id"
+Service Resource,"Description
+Id
+Name"
+Service Territory,"Description
+Id
+Name"
+Shipment,"Description
+Id
+Shipment Number"
+Snippet,"Description
+Id
+Name
+Value"
+Social Persona,"Id
+Name
+RealName"
+Social Post,"Content
+Headline
+Id
+Name
+Notes
+Post Tags
+Source Tags"
+Stationary Asset Carbon Footprint,"Id
+Name"
+Stationary Asset Carbon Footprint Item,"Id
+Name"
+Stationary Asset Energy Use,"Data Gap Filling Method Name
+Id
+Name"
+Stationary Asset Environment Source,"City
+Id
+Leased Identifier
+Name
+Postal Code
+Premise Identifier
+State
+Stationary Asset Identifier
+Street Address
+Street Address 2"
+Supplier,"Id
+Name"
+Survey,"Description
+Id
+Name"
+Sustainability Scorecard,"Description
+Id
+Name"
+Tag Category,"Description
+Id
+Name
+ParentCategoryId"
+Task,"Description
+Id
+Subject"
+Topic,"Description
+Id
+Name"
+Training Course Participant,"Id
+Name"
+Training Course,"Id
+Name"
+Unit Of Measure,"Id
+Name
+Unit Code"
+Unit of Measure Conversion,"Id
+Name"
+Vehicle Asset Carbon Footprint,"Id
+Name"
+Vehicle Asset Emissions Source,"City
+Id
+Leased Identifier
+Name
+Postal Code
+State
+Stationary Asset Identifier
+Street Address
+Street Address 2
+Vehicle Identifier"
+Vehicle Asset Energy Use,"Aircraft Type
+Cost Center
+Id
+Name"
+Video Call,"Id
+Name"
+Video Call Participant,"Id
+Name"
+Video Call Recording,"Id
+Name"
+Violation Type Assessment Ind,"Id
+Name"
+Violation Enforcement Action,"Id
+Name"
+Violation Type,"Id
+Name"
+Vision Modules,"Id
+Name"
+Visit,Name
+Voice Call,"Call Accept Date Time
+Description
+From Phone Number
+Id
+Name
+To Phone Number"
+Voucher,"Id
+Name"
+Voucher Definition,"Id
+Name"
+Waste Disposal Emissions Factor Set,"Id
+Name"
+Waste Disposal Emissions Factor Set Item,"Id
+Name"
+Waste Footprint,"Id
+Name"
+Waste Footprint Item,"Id
+Name"
+Worker Comp Coverage Class,"Id
+Name"
+Work Order,"Description
+Id
+Subject
+Work Order Number"
+Work Type Care Specialty,"Id
+Name"
+Work Type Group,"Id
+Name"

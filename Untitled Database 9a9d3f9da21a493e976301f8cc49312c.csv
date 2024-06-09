@@ -1,0 +1,5 @@
+﻿Traditional Visualforce Requests,Lightning Web Component Requests
+"User requests a page.The server executes the page’s underlying code and sends the resulting HTML to the browser.The browser displays the page.When the user interacts with the page again, the cycle repeats from step one.","1. User requests a component.
+2. The component definition is returned to the client as a compiled JavaScript file.
+3. The JavaScript application generates the UI.
+4. When the user interacts with the page again, the JavaScript modifies the UI on the client."

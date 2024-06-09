@@ -1,0 +1,4 @@
+﻿Name,Data Type,Description
+SubscriberType,xsd,"Specifies type for a subscriber, if not a Marketing Cloud subscriber. Valid values include:
+• salesforcecontact
+• salesforcelead"
