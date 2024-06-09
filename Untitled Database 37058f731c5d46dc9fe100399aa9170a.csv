@@ -1,0 +1,8 @@
+﻿Error,Message
+24000,SC_SendClassification Not Specified
+24100,SC_SendClassificationNot Found
+24101,SC_Sender Profile Not Found
+24102,SC_Delivery Profile Not Found
+24103,SC_Customer Key Invalid
+24104,SC_Name Invalid
+24105,SC_Burst Sending Not Configured

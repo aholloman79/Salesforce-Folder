@@ -1,0 +1,4 @@
+﻿Data Source,When to Use This Data Source
+Streaming API,For automatic updates when data changes
+Salesforce Object Search Language (SOSL),For text field searches across Salesforce objects
+Sample,For display or testing of static data
